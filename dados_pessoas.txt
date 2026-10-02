@@ -1,0 +1,6 @@
+1,Gabriel Vitor,1.67,45.00
+2,Hytalo,1.83,79.00
+3,Asafe,1.75,72.00
+4,Gabriel Barbosa,1.85,77.00
+5,Lula,1.68,84.00
+6,Bolsonaro,1.85,80.00
